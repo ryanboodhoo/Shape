@@ -17,5 +17,6 @@ public class ShapeProject {
         Rectangle rectangle2 = new Rectangle();
         rectangle2.length = 10;
         rectangle2.width = 10;
-        rectangle2.printPerimeter();    }
+        rectangle2.printPerimeter();
+    }
 }
